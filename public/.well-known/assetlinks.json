@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.jobin.qr_reader",
+      "sha256_cert_fingerprints": [
+        "9C:50:86:BD:99:9E:3D:15:F6:8B:22:69:73:61:E5:55:90:B7:95:D4:B5:BB:A5:C9:B6:19:FF:D8:7F:7B:43:49"
+      ]
+    }
+  }
+]
+
